@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\user\Desktop\GeometricFigure\GeometricFigureService\GeometricFigureService\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\user\Desktop\GeometricFigure\GeometricFigureService\GeometricFigureService\.editorconfig" />
+  </ItemGroup>
+
+</Project>
